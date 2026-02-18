@@ -17,6 +17,7 @@
       "expo-router",
       "expo-web-browser"
     ],
-    "name": "Maprats"
+    "name": "Maprats",
+    "owner": "keith-kurak"
   }
 }
